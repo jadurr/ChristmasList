@@ -1,0 +1,31 @@
+body{
+    background: rgb(187,37,40);
+    background: radial-gradient(circle, rgba(187,37,40,1) 47%, rgba(20,107,58,1) 74%);
+
+}
+.intro{
+    font-family: "Lucida Handwriting", Lucida, cursive;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    color: black;
+}
+h1{
+    color: #FFFF;
+}
+
+.row {
+    display: flex;
+  }
+  
+.column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+  
